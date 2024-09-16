@@ -86,4 +86,4 @@ pcb = CaminosPCB(6, 6)
 print("Caminos (Iterativo):", pcb.iterativo())
 print("Caminos (Recursivo):", pcb.recursivo())
 
-"""## Para la parte final de hacer un gráfico que compare las soluciones en base al tiempo de ejecución, no logré implementarlo dado que tuve complicaciones con la manera de almacenar los tiempos de ejecución en la solución recursiva."""
+"""## Para la parte final de hacer un gráfico que compare las soluciones en base al tiempo de ejecución, no logré implementarlo dado que tuve complicaciones con la manera de almacenar los tiempos de ejecución en la solución recursiva, pero la solución iterativa debería ser más eficiente debido a que la recursiva oma mucho tiempo al llamarse a si misma varias veces."""
