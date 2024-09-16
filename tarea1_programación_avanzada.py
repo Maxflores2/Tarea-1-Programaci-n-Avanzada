@@ -22,7 +22,7 @@ class CaminosPCB:
             return 1
         if i >= self.N or j >= self.M:
             return 0
-        return self.recursivo_simple(i + 1, j) + self.recursivo_simple(i, j + 1) #llamado recursivo paa despazar hacia abajo y hacia la derecha
+        return self.recursivo(i + 1, j) + self.recursivo(i, j + 1) #llamado recursivo paa despazar hacia abajo y hacia la derecha
 
 """Solución iterativa"""
 
