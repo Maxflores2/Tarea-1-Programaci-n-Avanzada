@@ -12,7 +12,7 @@ Un **paradigma de programación** es una forma de enfocar y formular problemas d
 
 ## ¿En qué se basa la programación orientada a objetos?
 
-La **programación orientada a objetos (POO)** se basa en la creación de clases, las cuales definen objetos. Los objetos de cada clase tienen atributos y funcionalidades asociadas. Una de las características principales de este paradigma es el énfasis en los datos y la capacidad de herencia entre objetos.
+La **programación orientada a objetos se basa en la creación de clases, las cuales definen objetos. Los objetos de cada clase tienen atributos y funcionalidades asociadas. Una de las características principales de este paradigma es el énfasis en los datos y la capacidad de herencia entre objetos.
 
 ## ¿Cuál es la diferencia entre recursividad e iteración, y cómo se relaciona esto con la notación Big O?
 
